@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "cors-anywhere",
+    "url": "https://cors-anywhere.herokuapp.com/"
+  },
+  {
+    "id": "2",
+    "name": "thingproxy",
+    "url": "https://thingproxy.freeboard.io/fetch/"
+  },
+  {
+    "id": "3",
+    "name": "cors io",
+    "url": "https://cors.io/?"
+  },
+  {
+    "id": "4",
+    "name": "cors now",
+    "url": "https://cors.now.sh/"
+  },
+  {
+    "id": "5",
+    "name": "corsify",
+    "url": "http://www.corsify.me/"
+  },
+  {
+    "id": "6",
+    "name": "gobetween",
+    "url": "https://gobetween.oklabs.org/pipe/"
+  },
+  {
+    "id": "7",
+    "name": "cors",
+    "url": "http://cors.hyoo.ru/"
+  },
+  {
+    "id": "8",
+    "name": "codetabs",
+    "url": "https://api.codetabs.com/cors-proxy/"
+  }
+]
